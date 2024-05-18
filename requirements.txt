@@ -1,0 +1,7 @@
+transformers
+datasets
+torchvision
+tqdm
+wandb
+gradio
+torch
